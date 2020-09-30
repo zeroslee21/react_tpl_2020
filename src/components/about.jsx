@@ -1,27 +1,36 @@
-import React,  { Component } from 'react'
+import React, { Component } from 'react'
 
 export default class About extends Component {
   render() {
-    return(
-      <section className="about-section section">
+    return (
+      <section className="about_area section_gap">
         <div className="container">
-          <div className="row">
-            <div className="col-sm-4">
-              <div className="heading">
-                <h3><b>About me</b></h3>
-                <h6 className="font-lite-black"><b>PROFESSIONAL PATH</b></h6>
+          <div className="row justify-content-start align-items-center">
+            <div className="col-lg-5">
+              <div className="about_img">
+                <img className="" src="img/about-us.png" alt="" />
               </div>
-            </div>{/* col-sm-4 */}
-            <div className="col-sm-8">
-              <p className="margin-b-50">I am a pre-final year CS undergrad, who has a penchant for Mobile Application Development.
-                                         I am a quick learner with an insatiable appetite for all things tech, with an even stronger desire to share every bit
-                                         of what I know, with people who might benefit from it.
-                                         An intermediate level Android Developer, stepping into new fields, one line of code at a time.</p>
+            </div>
 
-            </div>{/* col-sm-8 */}
-          </div>{/* row */}
-        </div>{/* container */}
+            <div className="offset-lg-1 col-lg-5">
+              <div className="main_title text-left">
+                <h2>let’s <br></br>Introduce about <br></br>myself</h2>
+                <p>
+                  Whose given. Were gathered. There first subdue greater. Bearing you Whales heaven
+                  midst their. Beast creepeth. Fish days.
+              </p>
+                <p>
+                  Is give may shall likeness made yielding spirit a itself together created after sea
+                  is in beast beginning signs open god you're gathering whose gathered cattle let.
+                  Creature whales fruit unto meat the life beginning all in under give two.
+              </p>
+                <a className="primary_btn" href="!#"><span>Download CV</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
+
     );
   }
 }
