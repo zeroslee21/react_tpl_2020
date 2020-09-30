@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://zeroslee21.github.io/react_tpl_2020",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
