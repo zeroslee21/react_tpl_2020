@@ -11,16 +11,16 @@ import Education from './components/education'
 function App() {
   return (
     <div>
-      <Header></Header>
-      <Intro></Intro>
-      <About></About>
-      <Quote></Quote>
-      <TechnicalSkills></TechnicalSkills>
-      <Experience></Experience>
+  <Header></Header>
+  <Intro></Intro>
+  <About></About>
+<Quote></Quote>
+  <TechnicalSkills></TechnicalSkills>
+  <Experience></Experience>
 
-      <Education></Education>
+  <Education></Education>
 
-    </div>
+  </div>
   );
 }
 
