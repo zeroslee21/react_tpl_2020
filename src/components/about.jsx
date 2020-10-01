@@ -8,17 +8,17 @@ export default class About extends Component {
           <div className="row justify-content-start align-items-center">
             <div className="col-lg-5">
               <div className="about_img">
-                <img className="" src="img/about-us.png" alt="" />
+                <img className="" src={process.env.PUBLIC_URL + '/img/about-us.png'} alt="" />
               </div>
             </div>
 
             <div className="offset-lg-1 col-lg-5">
               <div className="main_title text-left">
-                <h2>let’s <br></br>Introduce about <br></br>myself</h2>
+                <h2>let’s <br />Introduce about <br />myself </h2>
                 <p>
                   Whose given. Were gathered. There first subdue greater. Bearing you Whales heaven
                   midst their. Beast creepeth. Fish days.
-              </p>
+                  </p>
                 <p>
                   Is give may shall likeness made yielding spirit a itself together created after sea
                   is in beast beginning signs open god you're gathering whose gathered cattle let.

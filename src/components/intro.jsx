@@ -21,7 +21,7 @@ export default class Intro extends Component {
               </div>
               <div className="col-lg-5">
                 <div clclassNameass="home_right_img">
-                  <img className="" src="img/banner/home-right.png" alt="" />
+                  <img className="" src={process.env.PUBLIC_URL + '/img/banner/home-right.png'} alt="" />
                 </div>
               </div>
             </div>
