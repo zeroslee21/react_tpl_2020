@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_tpl_2020/static/css/main.692d75bb.chunk.css",
-    "main.js": "/react_tpl_2020/static/js/main.c638b8c9.chunk.js",
-    "main.js.map": "/react_tpl_2020/static/js/main.c638b8c9.chunk.js.map",
+    "main.js": "/react_tpl_2020/static/js/main.45e6965a.chunk.js",
+    "main.js.map": "/react_tpl_2020/static/js/main.45e6965a.chunk.js.map",
     "runtime-main.js": "/react_tpl_2020/static/js/runtime-main.a0b1646c.js",
     "runtime-main.js.map": "/react_tpl_2020/static/js/runtime-main.a0b1646c.js.map",
     "static/js/2.35c55b87.chunk.js": "/react_tpl_2020/static/js/2.35c55b87.chunk.js",
     "static/js/2.35c55b87.chunk.js.map": "/react_tpl_2020/static/js/2.35c55b87.chunk.js.map",
     "index.html": "/react_tpl_2020/index.html",
-    "precache-manifest.8693d2a24c03e34866342ccbb1351538.js": "/react_tpl_2020/precache-manifest.8693d2a24c03e34866342ccbb1351538.js",
+    "precache-manifest.ffbf396658436a2e3e052e3132d42b13.js": "/react_tpl_2020/precache-manifest.ffbf396658436a2e3e052e3132d42b13.js",
     "service-worker.js": "/react_tpl_2020/service-worker.js",
     "static/css/main.692d75bb.chunk.css.map": "/react_tpl_2020/static/css/main.692d75bb.chunk.css.map",
     "static/js/2.35c55b87.chunk.js.LICENSE.txt": "/react_tpl_2020/static/js/2.35c55b87.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a0b1646c.js",
     "static/js/2.35c55b87.chunk.js",
     "static/css/main.692d75bb.chunk.css",
-    "static/js/main.c638b8c9.chunk.js"
+    "static/js/main.45e6965a.chunk.js"
   ]
 }
